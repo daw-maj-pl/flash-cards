@@ -109,6 +109,8 @@ h1 button {
   height: 100%;
   width: 100%;
   background: #fff;
+  padding: 20px;
+  text-align: center;
 }
 
 .inner-card-front {
